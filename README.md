@@ -12,10 +12,16 @@ o en una unidad USB, lo que significa que no se transmiten por Internet.
 Actualmente, SafeBox solo está disponible como un archivo .exe para Windows
 y se ejecuta en una ventana de cmd.
 
-> [!CAUTION]
->  ## © Licencia GPL
-> 
-> Este codigo tiene una ``licencia GPL``
+>[!CAUTION]
+>Este codigo tiene una licensia ``GPT``
+<p align="center">
+  
+<img src="https://img.shields.io/badge/version-1.0-green"/> 
+<img src="https://img.shields.io/badge/author-RevayDev-blue"/> 
+<img src="https://img.shields.io/badge/licencia-GPT-red"/> 
+<img src="https://img.shields.io/badge/aria-CiberSeguridad-yellow"/>
+  
+</p>
 
 ---
 >[!IMPORTANT]
