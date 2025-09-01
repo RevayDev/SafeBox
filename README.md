@@ -1,9 +1,3 @@
-   > [!CAUTION]
-   > ## © Licencia GPL
-> 
-   >Este codigo tiene una ``licencia GPL``
-
-
 # 🔐 SafeBox
 SafeBox es una aplicación para Windows
 en desarrollo que te permite almacenar 
@@ -18,14 +12,29 @@ o en una unidad USB, lo que significa que no se transmiten por Internet.
 Actualmente, SafeBox solo está disponible como un archivo .exe para Windows
 y se ejecuta en una ventana de cmd.
 
+> [!CAUTION]
+>  ## © Licencia GPL
+> 
+> Este codigo tiene una ``licencia GPL``
+
+---
+>[!IMPORTANT]
+>## ✅ Versión 1.0 (Base en Terminal - Python)
+>- Funcionalidad básica con contraseña.
+>- Acceso a archivos locales/USB.
+>- Sin interfaz gráfica.
+>- Seguridad limitada (no hay cifrado, solo restricción de acceso).
+
+---
 
 ## 💿 Instalación el programa
 
 Instrucciones para instalar el Programa SafeBox.
 
 1. Descarge el archivo dependiendo de tu sistema
-2. Ejecuta el archivo ejecutable
-3. Sigue sus pasos. y ¡Disfuta!
+   > Actualmente solo disponible para windows [SafeBox.exe](https://github.com/RevayDev/SafeBox/raw/refs/heads/main/output/SafeBox.exe)
+3. Ejecuta el archivo ejecutable
+4. Sigue sus pasos de la seccion [🗂 Uso](#-uso). y ¡Disfuta!
 
 ## 📷 Capturas
 Capturas de pantalla del programa en funcionamiento.
