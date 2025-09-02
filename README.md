@@ -20,7 +20,7 @@ Este repositorio contiene el desarrollo completo de SafeBox, incluyendo todas su
 
 | Version | Nombre de la vercion| Releases |
 |-----------|-----------|-----------|
-| v1.0    | Terminal Edition |[Review](https://github.com/RevayDev/SafeBox/releases/edit/1.0)|
+| v1.0    | Terminal Edition |[Review](https://github.com/RevayDev/SafeBox/releases/tag/1.0)|
 
 ---
 
