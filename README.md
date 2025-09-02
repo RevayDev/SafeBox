@@ -13,11 +13,15 @@ Este repositorio contiene el desarrollo completo de SafeBox, incluyendo todas su
 
 >[!CAUTION]
 >Estos codigos tienen licencias ``GPT/Private``
+<p align="center">
+  
+| Inicio del programa | Ingreso a carpeta |
+|---------------------|-------------------|
+| <img src="Capturas/Screenshot_1.png" width="400"/> | <img src="Capturas/Screenshot_6.png" width="400"/> | 
+ | Contraseña incorrecta | Acceso finalizado |
+| <img src="Capturas/Screenshot_4.png" width="400"/> | <img src="Capturas/Screenshot_5.png" width="400"/> |
 
-| Inicio del programa | Ingreso a carpeta | Contraseña incorrecta | Acceso finalizado |
-|---------------------|-------------------|------------------------|-------------------|
-| <img src="Capturas/Screenshot_1.png" width="200"/> | <img src="Capturas/Screenshot_6.png" width="200"/> | <img src="Capturas/Screenshot_4.png" width="200"/> | <img src="Capturas/Screenshot_5.png" width="200"/> |
-
+</p>
 
 ---
 
